@@ -66,15 +66,15 @@ ALPHA_SIGNAL_RECEIPT_RETENTION_DAYS = 30
 
 # Alphas enabled for live signal calculation and data-topic validation.
 ACTIVE_ALPHAS = [
-    "alpha080",
-    "alpha142",
+    # "alpha080",
+    # "alpha142",
     "alpha008",
-    "alpha078",
-    "alpha072",
+    # "alpha078",
+    # "alpha072",
     "alpha039",
-    "alpha090",
+    # "alpha090",
     "alpha015",
-    "alpha069",
+    # "alpha069",
 ]
 
 
