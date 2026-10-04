@@ -1,12 +1,12 @@
-# Alphora Crypto Execution Engine
+# CTA Crypto Execution Engine - Time Series Multi Factor Trading
 
-A production-style Bitcoin systematic trading engine that combines multi-source market data, modular alpha signals, time-aware portfolio execution, risk controls, data-revision monitoring, and routed Telegram alerts.
+A production-style crypto systematic trading engine that combines multi-source market data, modular alpha signals, time-aware portfolio execution, risk controls, data-revision monitoring, and routed Telegram alerts.
 
 > This repository is a portfolio project demonstrating trading-system engineering. It is not investment advice, and no performance or profitability claim is made.
 
 ## Overview
 
-Alphora turns hourly market and on-chain data into an aligned portfolio position and executes that target through paper, Bybit testnet, or live modes. The system is designed around operational concerns that are often missing from strategy prototypes: stale data, delayed signals, historical data revisions, process supervision, execution reconciliation, persistent audit trails, and alert routing.
+The CTA Crypto Execution Engine turns hourly market and on-chain data into an aligned portfolio position and executes that target through paper, Bybit testnet, or live modes. The system is designed around operational concerns that are often missing from strategy prototypes: stale data, delayed signals, historical data revisions, process supervision, execution reconciliation, persistent audit trails, and alert routing.
 
 ## Architecture
 
